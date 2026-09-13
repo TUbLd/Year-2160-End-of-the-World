@@ -108,7 +108,7 @@ A question arises: how many days does the plural “days” refer to here? In th
 
 The text therefore concerns a total of three days, divided into two groups:                  
 
-**two days and one day**.
+**two days** and **one day**.
 
 Under this reading, the explanatory translation becomes: “He revives us in two days, and on the third day he raises us up, and we live before him.”
 
